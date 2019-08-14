@@ -5,11 +5,10 @@ author: todmccoy
 manager: joselr
 ms.date: 7/18/2019
 ms.audience: Admin
-ms.topic: article
+ms.topic: troubleshooting
 ms.service: sharepoint-online
 localization_priority: Normal
 search.appverid:
-- SPO160
 - MET150
 ms.assetid: 
 description: Outlines resolutions to error messages received when using SharePoint Online or OneDrive for Business such as Access Denied, You need permission to access this site and User not found in directory errors
