@@ -6,11 +6,10 @@ ms.author: v-todmc
 ms.reviewer: 
 manager: joselr
 audience: Admin
-ms.topic: article
+ms.topic: troubleshooting 
 ms.prod: office-perpetual-itpro
 localization_priority: Normal 
 search.appverid:
-- SPO160
 - MET150
 appliesto:
 - SharePoint Online
